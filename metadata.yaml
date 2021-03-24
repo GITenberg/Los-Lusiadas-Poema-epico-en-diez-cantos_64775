@@ -1,0 +1,27 @@
+_repo: Los-Lusiadas-Poema-epico-en-diez-cantos_64775
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Tapia, Luis Gómez de
+    gutenberg_agent_id: '53046'
+    url: http://www.gutenberg.org/2009/agents/53046
+creator:
+  author:
+    agent_name: Camoens, Luis de
+    gutenberg_agent_id: '53045'
+    url: http://www.gutenberg.org/2009/agents/53045
+description: ''
+gutenberg_issued: '2021-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64775'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Los Lusíadas
+
+  Poema épico en diez cantos'
+url: http://www.gutenberg.org/ebooks/64775
