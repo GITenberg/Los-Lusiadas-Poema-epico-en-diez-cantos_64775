@@ -5,12 +5,17 @@ contributor:
     agent_name: Tapia, Luis Gómez de
     gutenberg_agent_id: '53046'
     url: http://www.gutenberg.org/2009/agents/53046
+covers:
+- cover_type: archival
+  image_path: 64775-h/images/cover.jpg
 creator:
   author:
     agent_name: Camoens, Luis de
     gutenberg_agent_id: '53045'
     url: http://www.gutenberg.org/2009/agents/53045
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64775#Los-Lusiadas-Poema-epico-en-diez-cantos
 gutenberg_issued: '2021-03-10'
 gutenberg_type: Text
 identifiers:
